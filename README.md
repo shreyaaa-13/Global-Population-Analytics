@@ -40,5 +40,12 @@ Global-Population-Analytics/
    ```bash
    python script.py
 
+---
+## Key Insights
+
+- High-income countries show significant population concentration.
+- India and China remain the most populous nations globally.
+- Population distribution varies significantly across income groups.
+- Data visualization enables easier demographic trend analysis.
 ## Output
 ![Screenshot 2025-07-04 221525](https://github.com/user-attachments/assets/3639a1c6-8a15-4180-a779-33547af71b9f)
