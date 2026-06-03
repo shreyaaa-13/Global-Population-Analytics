@@ -1,19 +1,28 @@
-# PRODIGY_DS-01
+## Global Population Analytics Dashboard
 
-##  Overview
+## Problem Statement
+
+Understanding population distribution is essential for governments, policymakers, and researchers to make informed decisions regarding economic planning, resource allocation, and infrastructure development.
+
+This project analyzes global population data obtained from the World Bank and visualizes population distribution across different countries and income groups using Python-based data visualization techniques.
+
+## Overview
 
 As part of the data visualization internship task, this project explores global population trends using data from the World Bank.  
 The goal is to craft an insightful **bar chart** or **histogram** to represent the distribution of a continuous variable — in this case, **country-wise population for the year 2024**.
 
 ---
 
-##  Project Contents
+## Project Structure
 
-- `script.py` – Python script that reads, cleans, and visualizes the dataset.  
-- `output.png` – A crisp bar chart showing the **Top 10 most populated countries**.  
-- `README.md` – This documentation file.
-
----
+```text
+Global-Population-Analytics/
+│
+├── Task-01.csv          # Population dataset
+├── script.py            # Data processing & visualization
+├── Output.png           # Generated visualization
+└── README.md            # Project documentation
+```
 
 ##  How to Run
 
